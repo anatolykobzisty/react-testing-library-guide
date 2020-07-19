@@ -18,8 +18,6 @@ const TestAxios = ({ url }) => {
     <h1 data-testid="loading">Loading...</h1>
     }
   </>
-     )
-
-}
+)}
 
 export default TestAxios
